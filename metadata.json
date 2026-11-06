@@ -1,0 +1,6 @@
+{
+  "name": "Pet Care Management System",
+  "description": "Comprehensive pet care platform for pet owners, veterinarians, and administrators to track health, vaccination schedules, appointments, nutrition, and real-time reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
